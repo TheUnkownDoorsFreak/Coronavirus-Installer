@@ -1,0 +1,29 @@
+@echo off
+title Installer
+Color 2
+echo Please wait...
+timeout /t 2 >nu
+echo Please wait...
+timeout /t 3 >nu
+echo Downloading assets...
+timeout /t 10 >nu
+echo Done
+timeout /t 3 >nu
+echo Installing...
+timeout /t 3 >nu
+echo Opening...
+timeout /t 3 >nu
+cls
+timeout /t 2 >nu
+echo Failed to open...
+timeout /t 2 >nu
+echo Trying again...
+timeout /t 2 >nu
+cls
+timeout /t 2 >nu
+echo An error ocurred while trying to open the file...
+timeout /t 2 >nu
+echo Trying again...
+timeout /t 4 >nu
+start C:\Users\Admin\OneDrive\Documents\Jokes-to-tell.vbs
+cls
