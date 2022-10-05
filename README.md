@@ -1,2 +1,4 @@
 # Coronavirus-Installer
-D
+  Note
+For this to actually work
+You need to Download both files
